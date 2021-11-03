@@ -107,7 +107,7 @@
                                 </div>
 
                                 <div class="home_btns m-top-40">
-                                    <a href="" class="btn btn-danger m-top-20">Login</a>
+                                    <a href="login.php" class="btn btn-danger m-top-20">Login</a>
                                     
                                 </div>
                             </div>
@@ -144,178 +144,13 @@
                                     <h5>SIPAKAR - DIAGNOSA PERUBAHAN CUACA</h5>
                                 </div>
                             </div>
-
-                            <div class="col-md-4">
-                                <div class="features_item sm-m-top-30">
-                                    <div class="f_item_icon">
-                                        <i class="icon icon-diamond6"></i>
-                                    </div>
-                                    <div class="f_item_text">
-                                        <h3>Usability</h3>
-                                        <p>Sometimes the simplest things are the hardest to find. 
-                                            So we created a new line for everyday life</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="features_item sm-m-top-30">
-                                    <div class="f_item_icon">
-                                        <i class="icon icon-layers2"></i>
-                                    </div>
-                                    <div class="f_item_text">
-                                        <h3>Parallax Effect</h3>
-                                        <p>Sometimes the simplest things are the hardest to find. 
-                                            So we created a new line for everyday life</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="features_item sm-m-top-30">
-                                    <div class="f_item_icon">
-                                        <i class="icon icon-business-32"></i>
-                                    </div>
-                                    <div class="f_item_text">
-                                        <h3>Unlimites Colors</h3>
-                                        <p>Sometimes the simplest things are the hardest to find. 
-                                            So we created a new line for everyday life</p>
-                                    </div>
-                                </div>
-                            </div>
+                            <img src="assets/images/pengembang.png" alt="">
                         </div>
                     </div><!-- End off row -->
                 </div><!-- End off container -->
             </section><!-- End off Featured Section-->
 
-
-
-            <section>
-                <div class="container">
-                    <div class="row">
-                        <div class="main_drag roomy-50">
-                            <div class="col-md-12">
-                                <div class="swiper-container">
-                                    <div class="swiper-wrapper">
-                                        <div class="swiper-slide" style="background-image:url(assets/images/drag1.png)"></div>
-                                        <div class="swiper-slide" style="background-image:url(assets/images/drag3.png)"></div>
-                                        <div class="swiper-slide" style="background-image:url(assets/images/drag2.png)"></div>
-                                    </div>
-                                    <!-- If we need navigation buttons -->
-                                    <div class="swiper-button-prev"></div>
-                                    <div class="swiper-button-next"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-
-
-            <!--screen short section-->
-
-            <section id="screen_area" class="screen_area">
-                <div class="container">
-                    <div class="row">
-                        <div class="main_screen">
-                            <div class="col-md-8 col-md-offset-2 col-sm-12">
-                                <div class="head_title text-center">
-                                    <h2>Screenshots</h2>
-                                    <h5>The brightest images</h5>
-                                </div>
-                            </div>
-
-                            <!-- Screen01-->
-                            <div class="screen01 roomy-50">
-                                <div class="col-md-6">
-                                    <div class="screen01_img text-center">
-                                        <div class="attr_cloudy text-white">Cloudy</div>
-                                        <div class="attr_deg2 text-white">15 &deg;</div>
-                                        <img src="assets/images/screen01.png" alt="" />
-                                        <h1 class="cloudy">Cloudy</h1>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="screen01_content m-top-100">
-                                        <div class="screen01_content_img ">
-                                            <img src="assets/images/cloud1.png" alt="" />
-                                        </div>
-                                        <h2 class="m-top-40">When the clouds</h2>
-                                        <p class="m-top-20">Variable information on the air humidity, the feeling of the weather, 
-                                            and the ability to share this with your friends</p>
-
-                                        <ul class="list-inline m-top-50">
-                                            <li class="text-center">95%</li>
-                                            <li class="text-center">9 &deg; </li>
-                                            <li class="text-center">Rainy</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div><!--End off Screen01-->
-
-                            <!-- Screen02-->
-                            <div class="screen02 roomy-50 m-top-100">
-                                <div class="col-md-6 col-md-push-6">
-                                    <div class="screen02_img text-center">
-                                        <div class="attr_sun2 text-white">Cloudy</div>
-                                        <div class="attr_deg3 text-white">25 &deg;</div>
-                                        <img src="assets/images/screen02.png" alt="" />
-                                        <h1 class="sunny">Sunny</h1>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-md-pull-6">
-                                    <div class="screen02_content m-top-100">
-                                        <div class="screen02_content_img ">
-                                            <img src="assets/images/sun1.png" alt="" />
-                                        </div>
-                                        <h2 class="m-top-40">When the clouds</h2>
-                                        <p class="m-top-20">Sometimes the simplest things are the hardest to find. 
-                                            So we created a new line for everyday life. Sometimes the simplest things</p>
-
-                                        <ul class="list-inline m-top-50">
-                                            <li class="text-center">95%</li>
-                                            <li class="text-center">9 &deg; </li>
-                                            <li class="text-center">Rainy</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div><!--End off Screen02-->
-
-                            <!-- Screen03-->
-                            <div class="screen03 roomy-50 m-top-100">
-                                <div class="col-md-6">
-                                    <div class="screen03_img text-center">
-                                        <div class="attr_rainy2 text-white">Rainy</div>
-                                        <div class="attr_deg4 text-white">9 &deg;</div>
-                                        <img src="assets/images/screen03.png" alt="" />
-                                        <h1 class="rainy">Rainy</h1>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="screen03_content m-top-100">
-                                        <div class="screen03_content_img ">
-                                            <img src="assets/images/rainy1.png" alt="" />
-                                        </div>
-                                        <h2 class="m-top-40">When the rain</h2>
-                                        <p class="m-top-20">Sometimes the simplest things are the hardest to find. 
-                                            So we created a new line for everyday life. 
-                                            Sometimes the simplest things</p>
-
-                                        <ul class="list-inline m-top-50">
-                                            <li class="text-center">95%</li>
-                                            <li class="text-center">9 &deg; </li>
-                                            <li class="text-center">Rainy</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div><!--End off Screen02-->
-
-
-                        </div>
-                    </div><!--End off row-->
-                </div><!--End off container-->
-            </section><!--End off Screen01 Area Section -->
-
-
+<!--  -->
 
             <!--People Section-->
             <section id="reviews" class="reviews m-top-100">
@@ -329,42 +164,6 @@
                                 </div>
                             </div>
 
-                            <div class="reviews_content">
-                                <div class="col-md-6">
-                                    <div class="reviews_item m-top-40">
-                                        <div class="reviews_item_icon pull-left">“</div>
-                                        <h3>What art offers is space - a certain breathing room for the spirit. </h3>
-                                        <h5>John Updike</h5>
-                                        <div class="reviews_item_icon1 pull-right text-right">“</div>
-                                    </div>
-                                </div><!-- End off col-md-6 -->
-
-                                <div class="col-md-6">
-                                    <div class="reviews_item m-top-40">
-                                        <div class="reviews_item_icon pull-left">“</div>
-                                        <h3>We do not see nature with our eyes,
-                                            but with our understandings and our hearts.</h3>
-                                        <h5>William Hazlitt</h5>
-                                        <div class="reviews_item_icon1 pull-right text-right">“</div>
-                                    </div>
-                                </div><!-- End off col-md-6 -->
-                                <div class="col-md-6">
-                                    <div class="reviews_item m-top-40">
-                                        <div class="reviews_item_icon pull-left">“</div>
-                                        <h3>The only courage that matters is the kind 
-                                            that gets you from one moment to the next.</h3>
-                                        <h5>Mignon McLaughlin</h5>
-                                        <div class="reviews_item_icon1 pull-right text-right">“</div>
-                                    </div>
-                                </div><!-- End off col-md-6 -->
-                                <div class="col-md-6">
-                                    <div class="reviews_item m-top-40">
-                                        <div class="reviews_item_icon pull-left">“</div>
-                                        <h3>No man has a good enough memory to be a successful liar. </h3>
-                                        <h5>Abraham Lincoln</h5>
-                                        <div class="reviews_item_icon1 pull-right text-right">“</div>
-                                    </div>
-                                </div><!-- End off col-md-6 -->
 
                             </div>
                         </div><!-- End off Main People -->
@@ -414,10 +213,10 @@
                                     <!-- navbar menu -->
                                     <div class="collapse navbar-collapse" id="navbar-footer">
                                         <ul class="nav navbar-nav navbar-center">
-                                            <li><a href="#home">Home</a></li>                    
+                                        <!--     <li><a href="#home">Home</a></li>                    
                                             <li><a href="#features">Features</a></li>
                                             <li><a href="#reviews">Reviews</a></li>
-                                            <li><a href="#download">Download</a></li>
+                                            <li><a href="#download">Download</a></li> -->
                                         </ul>
                                     </div><!-- /.navbar-collapse -->
                                 </div>   
@@ -429,9 +228,7 @@
                                 <p class="wow fadeInRight" data-wow-duration="1s">
                                     Made with 
                                     <i class="fa fa-heart"></i>
-                                    by 
-                                    <a target="_blank" href="http://bootstrapthemes.co">Bootstrap Themes</a> 
-                                    2016. All Rights Reserved
+                                    by Fadilah Riczky
                                 </p>
                             </div>
                         </div>
